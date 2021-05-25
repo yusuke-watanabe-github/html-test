@@ -2,4 +2,4 @@ gitpotでファイル作成
 gitpotで編集
 githubで編集
 githubで編集2
-gitputで編集2
+gitputで編集2 
