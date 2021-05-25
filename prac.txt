@@ -1,0 +1,2 @@
+gitpotでファイル作成
+gitpotで編集
