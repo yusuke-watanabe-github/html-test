@@ -1,2 +1,3 @@
 gitpotでファイル作成
 gitpotで編集
+githubで編集
